@@ -1,2 +1,4 @@
 install python 
 pip install pandas
+pip install numpy
+install mqsql
